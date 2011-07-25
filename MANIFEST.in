@@ -1,0 +1,2 @@
+include LICENSE
+include django_minify/bin/yuicompressor-2.4.4.jar
